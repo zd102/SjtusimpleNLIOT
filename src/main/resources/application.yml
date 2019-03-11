@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: a
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/nliot
+    username: root
+    password: 123456
+    useSSL: false
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
