@@ -14,7 +14,7 @@
 + 安装部署[Neo4J图数据库](https://www.w3cschool.cn/neo4j/neo4j_exe_environment_setup.html)
 
 ### node.js + react
-+ 安装[node.js环境](https://www.runoob.com/nodejs/nodejs-install-setup.html),并在项目frontene目录下启用npm start确认npm是否可用
++ 安装[node.js环境](https://www.runoob.com/nodejs/nodejs-install-setup.html),并在cmd环境的frontene目录下启用npm start确认npm是否可用
 
 ## 相关技术
 
